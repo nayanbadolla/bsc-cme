@@ -4,11 +4,8 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Open Sans' , sans-serif;
-}
-
 .container {
+    font-family: 'Open Sans' , sans-serif;
     max-width: 100%;
     margin: auto;
 }
